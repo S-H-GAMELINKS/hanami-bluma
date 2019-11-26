@@ -22,7 +22,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add Bluma to your template.
+
+```erb
+<%= stylesheet 'bluma' %>
+```
 
 ## Development
 
